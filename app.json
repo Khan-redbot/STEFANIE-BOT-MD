@@ -1,7 +1,7 @@
 {
   "name": "Stefanie-WhatsApp-Bot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD",
+  "repository": "https://devil.com/whiteshadowofficial/STEFANIE-BOT-MD",
   "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
@@ -9,10 +9,10 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https:/devil/com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https:/devil/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
    "formation": {
